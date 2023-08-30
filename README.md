@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haseeb747
 - 👀 I’m interested in Data Structures and Algorithms, Machine Learning, and especially Natural Language Processing
 - 🌱 I’m currently working on Machine Learning Project
-- 💞️ I’m looking to collaborate on Data Structure and Machine Learning Projects and pc apps
+- 💞️ I’m looking to collaborate on Data Structure and Machine Learning Projects and PC apps
 - 📫 How to reach me Email: muhaseeb8@gmail.com
 
 <!---
